@@ -1,1 +1,1 @@
-# This is an html5 stereo viewer project
+# This is a stereopix embedded viewer project
