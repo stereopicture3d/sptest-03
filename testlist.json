@@ -1,53 +1,12 @@
 {
-	"photos": [
-		{
-			"url_photo": [
-				"https://live.staticflickr.com/4076/5039658762_ac47bce3e6_h.jpg"
-			],
-			"extra": {
-				"url": "https://www.flickr.com/photos/jonolave/5039658762/",
-				"licence": "CC BY 2.0",
-				"author": "Jon Olav Eikenes",
-				"title": "Stereoscopic tree"
-			}
-		},
-		{
-			"swapped": true,
-			"url_photo": [
-				"https://live.staticflickr.com/3407/3639496556_b74e2690f5_k.jpg"
-			],
-			"extra": {
-				"url": "https://www.flickr.com/photos/ofirtirosh/3639496556/",
-				"licence": "CC BY 2.0",
-				"author": "ofir tirosh",
-				"title": "light sticks"
-			}
-		},
-		{
-			"url_photo": [
-				"https://live.staticflickr.com/7130/8151585543_7f10d61127_k.jpg"
-			],
-			"extra": {
-				"url": "https://www.flickr.com/photos/hanuska/8151585543/",
-				"licence": "CC BY SA 2.0",
-				"author": "Dushan Hanuska",
-				"title": "Upside down again"
-			}
-		},
-		{
-			"swapped": false,
-			"url_photo": [
-				"https://live.staticflickr.com/3539/3795231236_b9a8b74630_b.jpg"
-			],
-			"extra": {
-				"url": "https://www.flickr.com/photos/parallel_yoshing/3795231236/",
-				"licence": "CC BY NC 2.0",
-				"author": "Hiroshi Yoshinaga",
-				"title": "piggy bank ぶたさん貯金箱 (parallel 3D)"
-			}
-		}
+	"media": [
+		{ "url": "nb1.png" },
+		{ "url": "nb2.png" },
+		{ "url": "nb3.png" },
+		{ "url": "nb4.png" },
+		{ "url": "nb5.png" }
 	],
-	"infos":{
-		"initial": 2
+	"meta": {
+		"url_base": "https://stereopix.github.io/viewer-examples/media/full/"
 	}
 }
