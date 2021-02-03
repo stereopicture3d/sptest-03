@@ -1,10 +1,10 @@
 {
 	"media": [
 		{ "url": "holopix01.jpg" },
-		{ "url": "nb2.png" },
-		{ "url": "nb3.png" },
-		{ "url": "nb4.png" },
-		{ "url": "nb5.png" }
+		{ "url": "holopix02.jpg" },
+		{ "url": "holopix03.jpg" },
+		{ "url": "holopix04.jpg" },
+		{ "url": "holopix05.jpg" }
 	],
 	"meta": {
 		"url_base": "https://stereopicture3d.github.io/sptest-02/"
